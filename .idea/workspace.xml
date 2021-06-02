@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52b6c5f5-72da-4841-ba87-4985d299fd5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rtbBc3Kq5uFAuRc1YTXdQh344i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Данные/Lessons_html_css/defense" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\20.00\cloudBudget2\src\images\slider" />
+      <recent name="C:\Users\User\Desktop\20.00\cloudBudget2\src\libs\owl-carousel" />
+      <recent name="C:\Users\User\Desktop\20.00\cloudBudget2\src\images\footer" />
+      <recent name="C:\Users\User\Desktop\20.00\cloudBudget2\src\libs\fancybox" />
+      <recent name="C:\Users\User\Desktop\20.00\cloudBudget2\src\images\technology" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52b6c5f5-72da-4841-ba87-4985d299fd5c" name="Default Changelist" comment="" />
+      <created>1619798198599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619798198599</updated>
+      <workItem from="1619798199764" duration="1147000" />
+      <workItem from="1619851416987" duration="14000" />
+      <workItem from="1620052302459" duration="5589000" />
+      <workItem from="1620098029295" duration="19000" />
+      <workItem from="1620220321933" duration="7092000" />
+      <workItem from="1620270710340" duration="78000" />
+      <workItem from="1620398406360" duration="5106000" />
+      <workItem from="1620454399335" duration="65000" />
+      <workItem from="1620659636384" duration="3052000" />
+      <workItem from="1620702433079" duration="6000" />
+      <workItem from="1620824957902" duration="6822000" />
+      <workItem from="1620901951263" duration="2000" />
+      <workItem from="1621000953738" duration="2340000" />
+      <workItem from="1621060911381" duration="2517000" />
+      <workItem from="1621078387816" duration="1665000" />
+      <workItem from="1621259587450" duration="5663000" />
+      <workItem from="1621436487014" duration="3330000" />
+      <workItem from="1621823858984" duration="881000" />
+      <workItem from="1622643781180" duration="1541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="142" key="EditFileWatcherDialog" timestamp="1619798265980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="318" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1619798265980" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1621266812803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621266812803" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1620400176269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1620400176269" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1620220647455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1620220647455" />
+  </component>
+</project>
